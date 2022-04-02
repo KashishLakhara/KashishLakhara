@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋, I'm Kashish Lakhara
+Learner | DevOps Enthusiast | Open Source
+- 🔭 I'm currently persuing Btech in Computer Science and Engineering.
+- 🌱 I'm currently learning C++, and started my DevOps journey.
+- 👯I'm looking forward to collaborate on GitHub.
+- 💬 Ask me about Open Source, Networking, Cloud Computing and other tech related stuff.
+- 😄 Pronouns : She/Her
+- 🤝 Connect me on twitter @kashishtwts
 
 <!--
 **KashishLakhara/KashishLakhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
